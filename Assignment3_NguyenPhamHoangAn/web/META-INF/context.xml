@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Assignment3_NguyenPhamHoangAn">
+<Resource
+        name="DBCon" auth="Container" type="javax.sql.DataSource"
+        username="sa" password="0330"
+        driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+        url="jdbc:sqlserver://DESKTOP-0FO93D3:1433;databaseName=Assignment3_NguyenPhamHoangAn"
+    />
+  
+</Context>
